@@ -1,0 +1,11 @@
+fastapi==0.115.12
+uvicorn==0.34.2
+langchain==0.3.25
+langchain-community==0.3.24
+langchain-openai==0.3.17
+faiss-cpu==1.11.0
+beautifulsoup4==4.13.4
+requests==2.32.3
+pytest==8.3.5
+python-dotenv==1.1.0
+pydantic==2.11.4
